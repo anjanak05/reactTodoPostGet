@@ -1,0 +1,13 @@
+.bul {
+  border: 1px solid rgb(16, 190, 54);
+  border-radius: 10px;
+  height: 30px;
+  padding: 10px;
+  margin-top: 3px;
+  display: flex;
+  justify-content: space-between;
+}
+.ulContainer {
+  width: 20%;
+  margin: auto;
+}
